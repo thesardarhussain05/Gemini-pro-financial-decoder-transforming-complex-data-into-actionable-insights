@@ -1,0 +1,2 @@
+# Gemini-pro-financial-decoder-transforming-complex-data-into-actionable-insights
+Scenario 1: Overwhelmed Analyst Sarah, a financial analyst at a bustling investment firm, is drowning in a sea of financial statements. Each quarter, she spends countless hours manually combing through these documents, extracting key figures, and creating presentations for her team. This tedious process leaves little time for Sarah to conduct 
